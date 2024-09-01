@@ -43,9 +43,9 @@ The **AI-Enhanced Healthcare Diagnostics and Management System** aims to revolut
 
 To run this project locally, follow these steps:
 
-#frontend
+##frontend
 npm i
 npm start
-#backend
+##backend
 npm i
 nodemon app.js
