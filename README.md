@@ -4,14 +4,14 @@
 **SAFETECH**
 
 ## 🧑‍🤝‍🧑 Team Details
-- **Team Leader**: Chitranshu Arya(2022UEE4627)
+- **Team Leader**: Chitranshu Arya (2022UEE4627)-[GitHub](https://github.com/chitranshu1409)
 - **Team Members**:
   - 👤 **Chitranshu Arya**
-  - 👤 **Kumar Chirag**(2022UCD2155)
-  - 👤 **Rahul Yadav**(2022UCD2159)
-  - 👤 **Naman Karara**(2022UCD2164)
-  - 👤 **Jayant Kumar Sahu**(2022UIC3579)
-  - 👤 **Navya Pant**(2022UEE6605)
+  - 👤 **Kumar Chirag** (2022UCD2155) - [GitHub](https://github.com/kchirag2023)
+  - 👤 **Rahul Yadav** (2022UCD2159) -[GitHub](https://github.com/rahuly-2023)
+  - 👤 **Naman Karara** (2022UCD2164) -[GitHub](https://github.com/Naman-karara)
+  - 👤 **Jayant Kumar Sahu** (2022UIC3579)-[GitHub](https://github.com/Jayant283)
+  - 👤 **Navya Pant** (2022UEE6605)
 
 ## 📋 Project Description
 The **AI-Enhanced Healthcare Diagnostics and Management System** aims to revolutionize healthcare delivery through advanced diagnostics and real-time monitoring. This system integrates data from various sources to provide accurate disease diagnoses and manage patient health effectively.
@@ -35,17 +35,19 @@ The **AI-Enhanced Healthcare Diagnostics and Management System** aims to revolut
 ## 🔗 Links
 - [📦 Project Repository](https://github.com/kchirag2023/SIH_INTERNAL_ROUND_1_SAFETECH/new/main?filename=README.md)
 - [🎥 Live Demo](https://youtu.be/uG_tPuQi2yU)
+- 
 
 ## 🛠️ Installation
 
-
+To run this project locally, follow these steps:
 
 
 To run this project locally, follow these steps:
 
-##frontend
+## frontend
 npm i
+
 npm start
-##backend
+## backend
 npm i
 nodemon app.js
