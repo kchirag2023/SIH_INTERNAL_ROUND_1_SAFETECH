@@ -4,14 +4,14 @@
 **SAFETECH**
 
 ## 🧑‍🤝‍🧑 Team Details
-- **Team Leader**: Kumar Chirag
+- **Team Leader**: Chitranshu Arya(2022UEE4627)
 - **Team Members**:
   - 👤 **Chitranshu Arya**
-  - 👤 **Kumar Chirag**
-  - 👤 **Rahul Yadav**
-  - 👤 **Naman Karara**
-  - 👤 **Jayant Kumar Sahu**
-  - 👤 **Navya Pant**
+  - 👤 **Kumar Chirag**(2022UCD2155)
+  - 👤 **Rahul Yadav**(2022UCD2159)
+  - 👤 **Naman Karara**(2022UCD2164)
+  - 👤 **Jayant Kumar Sahu**(2022UIC3579)
+  - 👤 **Navya Pant**(2022UEE6605)
 
 ## 📋 Project Description
 The **AI-Enhanced Healthcare Diagnostics and Management System** aims to revolutionize healthcare delivery through advanced diagnostics and real-time monitoring. This system integrates data from various sources to provide accurate disease diagnoses and manage patient health effectively.
